@@ -6,9 +6,10 @@
 > 2. En **files** se mostraran los tkt's ya creados.
 > 3. En **imgs** deberán estar las imágenes el cual su nombre debe tener el siguiente formato: 
 > ```py
-> 'img-bug[{número-del-tkt}]-{número-de-la-incidencias}-{número-de-imagen}.png'
+> 'img-bug[{número-del-tkt}]-{número-de-la-incidencias}-{número-de-imagen}.png'.
 >```
->  ⚠️ ⚠️ ⚠️
+> 4. En **imgs** están dos carpetas, **before** y **fixed**, en los cuales estarán las evidencias **antes** y **después** de debuggear respectivamente, con el título con el formato mostrado en esta lista en el **punto 3**. 
+>
 
 
 ## **INSTRUCCIONES DE USO**
